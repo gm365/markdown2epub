@@ -13,7 +13,7 @@
 
 ## 使用方法
 
-1. 访问 [在线转换工具](https://gm365.github.io/markdown2epub)
+1. 访问 [在线转换工具](https://markdown2epub.pages.dev/)
 2. 点击"选择 Markdown 文件"按钮上传您的 .md 文件
 3. 点击"转换为 EPUB"按钮
 4. 等待转换完成后自动下载 EPUB 文件
@@ -58,4 +58,5 @@ npm run build
 ## 作者
 
 [@gm365](https://github.com/gm365)
+[Twitter](https://x.com/gm365)
 
